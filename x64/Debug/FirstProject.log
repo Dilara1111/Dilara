@@ -1,0 +1,13 @@
+﻿  FirstProject.cpp
+C:\Users\User\source\repos\FirstProject\FirstProject.cpp(26,13): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\User\source\repos\FirstProject\FirstProject.cpp(27,13): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\User\source\repos\FirstProject\FirstProject.cpp(36,13): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\User\source\repos\FirstProject\FirstProject.cpp(37,13): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\User\source\repos\FirstProject\FirstProject.cpp(43,13): warning C4129: '_': unrecognized character escape sequence
+C:\Users\User\source\repos\FirstProject\FirstProject.cpp(44,13): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\User\source\repos\FirstProject\FirstProject.cpp(45,13): warning C4129: '_': unrecognized character escape sequence
+C:\Users\User\source\repos\FirstProject\FirstProject.cpp(46,13): warning C4129: '_': unrecognized character escape sequence
+C:\Users\User\source\repos\FirstProject\FirstProject.cpp(46,13): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\User\source\repos\FirstProject\FirstProject.cpp(47,13): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\User\source\repos\FirstProject\FirstProject.cpp(48,13): warning C4129: ' ': unrecognized character escape sequence
+  FirstProject.vcxproj -> C:\Users\User\source\repos\FirstProject\x64\Debug\FirstProject.exe
